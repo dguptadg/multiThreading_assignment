@@ -67,4 +67,8 @@ g++ main.cpp -o main -pthread -std=c++11
 ./main
 ```
 
-## Project Structure
+## Conclusion
+Multithreading significantly improves performance, but optimal results depend on balancing threads with system capabilities.
+
+## Author
+Dhruv Gupta
