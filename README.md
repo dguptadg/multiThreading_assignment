@@ -40,11 +40,13 @@ This project demonstrates the use of multithreading in C++ to optimize matrix mu
 
 ## Performance Graph
 
-![Performance Graph](graph.png)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/1ff83b39-8f86-4760-958e-b2a26e7d206d" />
+
 
 ## CPU Utilization
 
-![CPU Utilization](cpu_usage.png)
+<img width="980" height="305" alt="image" src="https://github.com/user-attachments/assets/e5b654d6-9378-4311-8bf0-0f13c54172ee" />
+
 
 ## Key Observations
 - Execution time decreases as threads increase
@@ -59,13 +61,6 @@ This project demonstrates the use of multithreading in C++ to optimize matrix mu
 - Multithreading (`std::thread`)
 - MinGW-w64 (GCC 15)
 - Excel / Google Sheets
-
-## How to Run
-
-```bash
-g++ main.cpp -o main -pthread -std=c++11
-./main
-```
 
 ## Conclusion
 Multithreading significantly improves performance, but optimal results depend on balancing threads with system capabilities.
