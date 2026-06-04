@@ -1,4 +1,4 @@
-# multiThreadingAssignment
+# MULTI THEADING ASSIGNMENT
 
 ## Overview
 102303877
